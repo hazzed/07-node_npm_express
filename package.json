@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hanhthaoluu/07-node_npm_express.git"
+    "url": "git+https://github.com/hazzed/07-node_npm_express.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hanhthaoluu/07-node_npm_express/issues"
+    "url": "https://github.com/hazzed/07-node_npm_express/issues"
   },
-  "homepage": "https://github.com/hanhthaoluu/07-node_npm_express#readme",
+  "homepage": "https://github.com/hazzed/07-node_npm_express#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.4"
